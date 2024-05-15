@@ -9,6 +9,10 @@ This project is a simple Kanban board built with React, Tailwind, Typescript and
 - Typescript
 - DndKit
 
+## Demo
+
+You can view the live demo [here](https://simple-kanban-project.vercel.app)
+
 ## Installation
 
 1. Clone the repository
